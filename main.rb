@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'sinatra'
+require 'newrelic_rpm'
 
 set :sessions, true
 
